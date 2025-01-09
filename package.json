@@ -1,0 +1,13 @@
+{
+  "name": "happy_tokenomic",
+  "version": "1.0.0",
+  "description": "Deployment of $HAPPY Token website",
+  "main": "index.js",
+  "scripts": {
+    "build": "your-build-command-here",
+    "start": "your-start-command-here"
+  },
+  "dependencies": {
+    // List your dependencies here
+  }
+}
